@@ -20,5 +20,5 @@ and in response user will get<br><br>
   "excercise3": "name","image_link",[list of benefits],<br>
   "line graph": Base64 encoded png of daily sitting posture,<br>
   "pie chart": daily percentage of sitting (good/bad Posture),<br>
-  "posture": Overall posture of User
+  "posture": Overall posture of User<br>
 }
